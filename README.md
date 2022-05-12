@@ -1,2 +1,2 @@
 
-patika front-end html 2. ödev
+patika front-end html ilk 2 ödev
